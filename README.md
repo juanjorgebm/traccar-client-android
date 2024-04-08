@@ -5,6 +5,7 @@
 ## Overview
 
 Traccar Client is an Android GPS tracking application. It can work with Traccar open source server software.
+This fork is for UbicaCR app
 
 ## Team
 
